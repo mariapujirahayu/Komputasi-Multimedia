@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Aboutus.unity
     guid: 99b58f91d87880a4e86ff2c657ef5950
+  - enabled: 1
+    path: Assets/Scenes/LoadingBar.unity
+    guid: 51d3b260a78cd994c9434bbd7019f2a1
   m_configObjects: {}
